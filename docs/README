@@ -1,0 +1,2 @@
+* Docs always go in their folder for the version
+* Important docs should be symlinked (NOT COPIED) from here into the current latest version for hotlinking. Links from pages that are not under our control or are likely to be forgotten about should always go to these symlinks.
